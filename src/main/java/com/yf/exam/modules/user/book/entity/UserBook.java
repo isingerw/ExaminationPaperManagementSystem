@@ -28,31 +28,26 @@ public class UserBook extends Model<UserBook> {
      */
     @TableId(value = "id", type = IdType.ASSIGN_ID)
     private String id;
-
     /**
      * 考试ID
      */
     @TableField("exam_id")
     private String examId;
-
     /**
      * 用户ID
      */
     @TableField("user_id")
     private String userId;
-
     /**
      * 题目ID
      */
     @TableField("qu_id")
     private String quId;
-
     /**
      * 加入时间
      */
     @TableField("create_time")
     private Date createTime;
-
     /**
      * 最近错误时间
      */
