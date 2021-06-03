@@ -1,5 +1,21 @@
 # ExaminationPaperManagementSystem(试卷管理系统)
 
+<p align="center">
+    <a href="https://github.com/isingerw/ExaminationPaperManagementSystem/issues">
+        <img src="https://img.shields.io/github/issues/isingerw/ExaminationPaperManagementSystem?style=for-the-badge">
+    </a>
+    <a href="https://github.com/isingerw/ExaminationPaperManagementSystem/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/isingerw/ExaminationPaperManagementSystem?style=for-the-badge">
+    </a>
+    <a href="https://github.com/isingerw/ExaminationPaperManagementSystem/stargazers">
+        <img src="https://img.shields.io/github/forks/isingerw/ExaminationPaperManagementSystem?style=for-the-badge">
+    </a>
+        <a href="https://github.com/isingerw/ExaminationPaperManagementSystem/network/members">
+        <img src="https://img.shields.io/github/stars/isingerw/ExaminationPaperManagementSystem?style=for-the-badge">
+    </a>
+</p>
+
+
 ## 一、基本介绍
 
 J2EE架构与程序设计实践项目，第七组：试卷管理系统（Examination paper management system），需求功能：题型管理、试题管理、试题选项管理、用户答题记录、用户得分管理、试卷管理、错题集。
